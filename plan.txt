@@ -1,0 +1,26 @@
+Tuples, Sets & Dictionaries ← START HERE   \\\\
+Functions & Python function concepts        \\\\ 
+*args, **kwargs
+Scope, mutability & references
+List/dict/set comprehensions
+Strings in depth
+Exception handling
+Files & directories
+Modules & packages
+OOP in Python
+Iterators & generators
+Decorators
+Lambda, map, filter, reduce
+datetime, os, pathlib, json, csv
+Virtual environments & pip
+Type hints & clean code
+Testing & debugging
+NumPy
+Pandas
+SQL + Python
+APIs
+ETL pipelines
+PostgreSQL
+Airflow
+PySpark
+Data-engineering projects
